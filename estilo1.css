@@ -1,0 +1,31 @@
+body{
+	background-color:#FFF6CD;
+}
+div{
+    background-color:#3B0000;
+    color:#E8F6EF;
+    text-align:center;
+
+}
+#sub{
+	background-color:#911F27;
+}
+#res{
+	text-align:center;
+	text-decoration: underline;
+}
+h2{
+	font-family:Arial;
+	color:#E8F6EF;
+	font-weight: bolder;
+	text-align:center;
+}
+p{
+	font-family:Arial;
+	text-align:justify;
+}
+img{
+	border-radius:15px;
+}
+#link { color: #FF0000; }
+#link:hover { color: #00FF00; }
